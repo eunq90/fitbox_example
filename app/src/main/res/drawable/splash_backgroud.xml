@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/white"/>
+    <!--
+    <item
+        android:width="180dp"
+        android:height="53dp"
+        android:drawable="@drawable/logo_slip_white_180"
+        android:gravity="center">
+    </item>
+    -->
+<!--
+    <item>
+        <bitmap android:src="@drawable/logo_slip"
+            android:gravity="center"
+            android:filter="true"
+            />
+    </item>
+-->
+
+</layer-list>

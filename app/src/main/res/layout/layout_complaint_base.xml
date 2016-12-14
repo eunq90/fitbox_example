@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    >
+
+    <ListView android:layout_height="0dip"
+        android:layout_width="fill_parent"
+        android:layout_weight="1">
+
+    </ListView>
+
+
+    <com.again.fitbox.fitbox_android.activity.TabNaviComplaintBase
+        android:layout_height="100dp"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:id="@+id/PageNavigationView"
+        android:layout_gravity="bottom">
+
+    </com.again.fitbox.fitbox_android.activity.TabNaviComplaintBase>
+
+
+</LinearLayout>
